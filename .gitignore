@@ -1,0 +1,16 @@
+/world/
+/world_nether/
+/banned-ips.txt
+/banned-players.txt
+/bukkit.yml
+/ops.txt
+/permissions.yml
+/poseidon.yml
+/server.log
+/server.log.lck
+/server.properties
+/uuidcache.json
+/white-list.txt
+/plugins/
+/build/
+/.idea/
